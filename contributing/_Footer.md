@@ -1,0 +1,1 @@
+This is the **🤯 / 🤖 SLYYDE CHAT** wiki. [Wiki Home](https://github.com/lobehub/lobe-chat/wiki)
