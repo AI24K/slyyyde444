@@ -1,0 +1,136 @@
+{
+  "ModelSwitch": {
+    "title": "Innovation Catalyst"
+  },
+  "agentDefaultMessage": "Welcome, I'm **{{name}}**, your AI innovation companion. Let's embark on a journey of discovery and creativity together! Visit [Catalyst Settings](/chat/settings#session={{id}}) to fine-tune my capabilities.",
+  "agentDefaultMessageWithSystemRole": "Greetings, I'm **{{name}}**, your {{systemRole}} innovation catalyst. Let's ignite the spark of innovation and explore the uncharted!",
+  "backToBottom": "Back to Launch Pad",
+  "clearCurrentMessages": "Clear current innovation session",
+  "confirmClearCurrentMessages": "You are about to clear the current innovation session. Once cleared, the ideas generated cannot be retrieved. Please confirm your action.",
+  "confirmRemoveSessionItemAlert": "You are about to delete this innovation catalyst. Once deleted, it cannot be retrieved. Please confirm your action.",
+  "confirmRemoveSessionSuccess": "Innovation catalyst removed successfully",
+  "defaultAgent": "Default Innovation Catalyst",
+  "defaultList": "Default Catalyst List",
+  "defaultSession": "Default Innovation Session",
+  "duplicateSession": {
+    "loading": "Duplicating catalyst...",
+    "success": "Catalyst duplicated successfully",
+    "title": "{{title}} Duplicate"
+  },
+  "duplicateTitle": "{{title}} Duplicate",
+  "emptyAgent": "No innovation catalyst available",
+  "historyRange": "Innovation History Range",
+  "inbox": {
+    "desc": "Ignite your imagination, question the status quo, and embark on a transformative journey of innovation. Your AI catalyst is here to guide you, inspire you, and help you unleash your creative potential.",
+    "title": "Innovate with Slyyyde"
+  },
+  "input": {
+    "addAi": "Add an AI insight",
+    "addUser": "Add an innovator's idea",
+    "more": "more",
+    "send": "Ignite",
+    "sendWithCmdEnter": "Press {{meta}} + Enter to ignite",
+    "sendWithEnter": "Press Enter to ignite",
+    "stop": "Pause",
+    "warp": "New Insight"
+  },
+  "messageAction": {
+    "delAndRegenerate": "Delete and Regenerate",
+    "regenerate": "Reignite"
+  },
+  "newAgent": "New Innovation Catalyst",
+  "noDescription": "No catalyst description available",
+  "pin": "Pin Insight",
+  "pinOff": "Unpin Insight",
+  "regenerate": "Reignite Insight",
+  "roleAndArchive": "Catalyst Role and Archive",
+  "searchAgentPlaceholder": "Search innovation catalysts and sessions...",
+  "sendPlaceholder": "Share your revolutionary idea here...",
+  "sessionGroup": {
+    "config": "Innovation Group Management",
+    "confirmRemoveGroupAlert": "This innovation group is about to be deleted. After deletion, the catalysts in this group will be moved to the default list. Please confirm your operation.",
+    "createAgentSuccess": "Innovation catalyst created successfully",
+    "createGroup": "Add New Innovation Group",
+    "createSuccess": "Innovation group created successfully",
+    "creatingAgent": "Creating innovation catalyst...",
+    "inputPlaceholder": "Enter innovation group name...",
+    "moveGroup": "Move to Innovation Group",
+    "newGroup": "New Innovation Group",
+    "rename": "Rename Innovation Group",
+    "renameSuccess": "Innovation group renamed successfully",
+    "sortSuccess": "Reorder successful",
+    "sorting": "Updating innovation group sorting...",
+    "tooLong": "Innovation group name should be between 1-20 characters"
+  },
+  "shareModal": {
+    "download": "Download Innovation Snapshot",
+    "imageType": "Snapshot Format",
+    "screenshot": "Innovation Snapshot",
+    "settings": "Export Settings",
+    "shareToShareGPT": "Generate Slyyyde Sharing Link",
+    "withBackground": "Include Background Image",
+    "withFooter": "Include Slyyyde Footer",
+    "withPluginInfo": "Include Catalyst Plugin Information",
+    "withSystemRole": "Include Catalyst Role Setting"
+  },
+  "stt": {
+    "action": "Voice-Powered Ideation",
+    "loading": "Analyzing inspiration...",
+    "prettifying": "Enhancing innovation..."
+  },
+  "temp": "Temporary Catalyst",
+  "tokenDetails": {
+    "chats": "Innovation Exchanges",
+    "rest": "Remaining Tokens",
+    "systemRole": "Catalyst Role Settings",
+    "tools": "Catalyst Plugin Settings",
+    "total": "Total Innovation Capacity",
+    "used": "Innovation Capacity Used"
+  },
+  "tokenTag": {
+    "overload": "Innovation Limit Exceeded",
+    "remained": "Remaining Innovation Capacity",
+    "used": "Innovation Capacity Used"
+  },
+  "topic": {
+    "actions": {
+      "autoRename": "Auto-Rename Innovation Topic",
+      "duplicate": "Duplicate Innovation Topic",
+      "export": "Export Innovation Topic"
+    },
+    "confirmRemoveAll": "You are about to delete all innovation topics. Once deleted, they cannot be recovered. Please proceed with caution.",
+    "confirmRemoveTopic": "You are about to delete this innovation topic. Once deleted, it cannot be recovered. Please proceed with caution.",
+    "confirmRemoveUnstarred": "You are about to delete unstarred innovation topics. Once deleted, they cannot be recovered. Please proceed with caution.",
+    "defaultTitle": "Default Innovation Topic",
+    "duplicateLoading": "Duplicating innovation topic...",
+    "duplicateSuccess": "Innovation topic duplicated successfully",
+    "guide": {
+      "desc": "Click the button on the left to save the current innovation session as a historical topic and start a new session.",
+      "title": "Innovation Topic List"
+    },
+    "openNewTopic": "Open New Innovation Topic",
+    "removeAll": "Remove All Innovation Topics",
+    "removeUnstarred": "Remove Unstarred Innovation Topics",
+    "saveCurrentMessages": "Save current innovation session as a topic",
+    "searchPlaceholder": "Search innovation topics...",
+    "title": "Innovation Topic List"
+  },
+  "translate": {
+    "action": "Translate Insight",
+    "clear": "Clear Translation"
+  },
+  "tts": {
+    "action": "Speak Innovation",
+    "clear": "Clear Speech"
+  },
+  "updateAgent": "Update Innovation Catalyst Information",
+  "upload": {
+    "actionFiletip": "Update Innovation File",
+    "actionTooltip": "Upload Innovation Image",
+    "disabled": "The current innovation catalyst does not support visual recognition. Please switch catalysts to use this feature.",
+    "dragDesc": "Drag and drop innovation files here, supporting multiple image uploads. Hold down Shift to send images directly.",
+    "dragFileDesc": "Drag pictures and files here to upload multiple innovation assets. Hold down Shift to send an image or file directly.",
+    "dragFileTitle": "Update Innovation File",
+    "dragTitle": "Upload Innovation Image"
+  }
+}

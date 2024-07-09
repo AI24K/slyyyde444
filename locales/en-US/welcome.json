@@ -1,0 +1,49 @@
+{
+  "button": {
+    "import": "Import Configuration",
+    "market": "Visit Innovation Market",
+    "start": "Start Innovating"
+  },
+  "guide": {
+    "agents": {
+      "replaceBtn": "Explore New Catalysts",
+      "title": "Featured Innovation Catalysts:"
+    },
+    "defaultMessage": "Welcome to Slyyyde, your AI-powered innovation companion! I'm here to ignite your creativity and help you bring your ideas to life. Ready to start innovating? Click on '+' to create a custom innovation catalyst tailored to your needs.",
+    "qa": {
+      "q01": "What is Slyyyde?",
+      "q02": "How can Slyyyde help me innovate?",
+      "q03": "Does Slyyyde have a community of innovators?",
+      "q04": "What features does Slyyyde offer?",
+      "q05": "How can I integrate Slyyyde into my innovation workflow?",
+      "q06": "What are the pricing options for Slyyyde?",
+      "q07": "Does Slyyyde have a free plan?",
+      "q08": "Can I access Slyyyde through the cloud?",
+      "q09": "Does Slyyyde support custom AI models?",
+      "q10": "Can Slyyyde generate and analyze visual content?",
+      "q11": "Does Slyyyde offer voice-based interaction?",
+      "q12": "Can I extend Slyyyde's capabilities with plugins?",
+      "q13": "Is there a marketplace for pre-trained innovation catalysts?",
+      "q14": "Does Slyyyde integrate with other AI platforms?",
+      "q15": "How can I get support if I encounter issues with Slyyyde?"
+    },
+    "questions": {
+      "moreBtn": "Discover More",
+      "title": "Frequently Asked Innovation Questions:"
+    },
+    "welcome": {
+      "afternoon": "Good Afternoon, Innovator",
+      "morning": "Good Morning, Innovator",
+      "night": "Good Evening, Innovator",
+      "noon": "Happy Innovating"
+    }
+  },
+  "header": "Innovate with Slyyyde",
+  "pickAgent": "Or choose from the following innovation catalyst templates",
+  "skip": "Start Innovating",
+  "slogan": {
+    "desc1": "Pioneering the future of innovation and impact. Built for you, the Slyyyde Innovator.",
+    "desc2": "Create your first innovation catalyst and let's ignite change!",
+    "title": "Unleash the power of your imagination"
+  }
+}

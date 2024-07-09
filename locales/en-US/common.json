@@ -1,0 +1,185 @@
+{
+  "about": "About Slyyyde",
+  "advanceSettings": "Advanced Innovation Settings",
+  "appInitializing": "Slyyyde is igniting, please wait...",
+  "autoGenerate": "Auto-Ignite",
+  "autoGenerateTooltip": "Auto-generate innovation catalyst description based on prompts",
+  "autoGenerateTooltipDisabled": "Please enter a tooltip before using the auto-ignite feature",
+  "blog": "Innovation Blog",
+  "cancel": "Cancel",
+  "changelog": "Innovation Log",
+  "close": "Close",
+  "copy": "Clone",
+  "copyFail": "Cloning failed",
+  "copySuccess": "Cloned successfully",
+  "dataStatistics": {
+    "messages": "Innovation Messages",
+    "sessions": "Innovation Catalysts",
+    "today": "Today's New Sparks",
+    "topics": "Innovation Topics"
+  },
+  "defaultAgent": "Default Innovation Catalyst",
+  "defaultSession": "Default Innovation Catalyst",
+  "delete": "Delete",
+  "document": "Innovator's Handbook",
+  "duplicate": "Create Innovation Twin",
+  "edit": "Refine",
+  "export": "Export Innovation Blueprint",
+  "exportType": {
+    "agent": "Export Catalyst Settings",
+    "agentWithMessage": "Export Catalyst and Innovation Messages",
+    "all": "Export Global Innovation Settings and All Catalyst Data",
+    "allAgent": "Export All Catalyst Settings",
+    "allAgentWithMessage": "Export All Catalysts and Innovation Messages",
+    "globalSetting": "Export Global Innovation Settings"
+  },
+  "feedback": "Innovation Feedback",
+  "follow": "Follow Slyyyde's journey on {{name}}",
+  "fullscreen": "Immersive Innovation Mode",
+  "historyRange": "Innovation History Range",
+  "import": "Import Innovation Blueprint",
+  "importModal": {
+    "finish": {
+      "onlySettings": "Innovation system settings imported successfully",
+      "start": "Start innovating",
+      "subTitle": "Innovation data imported successfully, took {{duration}} seconds. Import details are as follows:",
+      "title": "Innovation data import completed"
+    },
+    "loading": "Innovation data importing, please wait...",
+    "result": {
+      "added": "Imported successfully",
+      "errors": "Import errors",
+      "messages": "Innovation Messages",
+      "sessionGroups": "Innovation Groups",
+      "sessions": "Innovation Catalysts",
+      "skips": "Duplicates skipped",
+      "topics": "Innovation Topics",
+      "type": "Data Type"
+    },
+    "title": "Import Innovation Data"
+  },
+  "lang": {
+    "ar": "Arabic",
+    "bg-BG": "Bulgarian",
+    "bn": "Bengali",
+    "cs-CZ": "Czech",
+    "da-DK": "Danish",
+    "de-DE": "German",
+    "el-GR": "Greek",
+    "en": "English",
+    "en-US": "English",
+    "es-ES": "Spanish",
+    "fi-FI": "Finnish",
+    "fr-FR": "French",
+    "hi-IN": "Hindi",
+    "hu-HU": "Hungarian",
+    "id-ID": "Indonesian",
+    "it-IT": "Italian",
+    "ja-JP": "Japanese",
+    "ko-KR": "Korean",
+    "nl-NL": "Dutch",
+    "no-NO": "Norwegian",
+    "pl-PL": "Polish",
+    "pt-BR": "Portuguese",
+    "pt-PT": "Portuguese",
+    "ro-RO": "Romanian",
+    "ru-RU": "Russian",
+    "sk-SK": "Slovak",
+    "sr-RS": "Serbian",
+    "sv-SE": "Swedish",
+    "th-TH": "Thai",
+    "tr-TR": "Turkish",
+    "uk-UA": "Ukrainian",
+    "vi-VN": "Vietnamese",
+    "zh": "Simplified Chinese",
+    "zh-CN": "Simplified Chinese",
+    "zh-TW": "Traditional Chinese"
+  },
+  "layoutInitializing": "Initializing innovation layout...",
+  "noDescription": "No catalyst description available",
+  "oauth": "SSO Login",
+  "officialSite": "Official Innovation Hub",
+  "ok": "Ignite",
+  "password": "Innovation Key",
+  "pin": "Pin Insight",
+  "pinOff": "Unpin Insight",
+  "privacy": "Innovation Privacy Policy",
+  "regenerate": "Reignite",
+  "rename": "Rebrand",
+  "reset": "Reset Innovation",
+  "retry": "Retry Innovation",
+  "send": "Ignite",
+  "setting": "Innovation Settings",
+  "share": "Share Innovation",
+  "stop": "Pause Innovation",
+  "sync": {
+    "actions": {
+      "settings": "Sync Innovation Settings",
+      "sync": "Sync Innovation Now"
+    },
+    "awareness": {
+      "current": "Current Innovation Device"
+    },
+    "channel": "Innovation Channel",
+    "disabled": {
+      "actions": {
+        "enable": "Enable Cloud Innovation Sync",
+        "settings": "Sync Innovation Settings"
+      },
+      "desc": "Current innovation session data is only stored in this browser. If you need to sync innovation data across multiple devices, please configure and enable cloud sync.",
+      "title": "Innovation Data Sync Disabled"
+    },
+    "enabled": {
+      "title": "Innovation Data Sync Enabled"
+    },
+    "status": {
+      "connecting": "Connecting to Innovation Network",
+      "disabled": "Innovation Sync Disabled",
+      "ready": "Connected to Innovation Network",
+      "synced": "Innovation Synced",
+      "syncing": "Syncing Innovation",
+      "unconnected": "Innovation Connection Failed"
+    },
+    "title": "Innovation Sync Status",
+    "unconnected": {
+      "tip": "Innovation signaling server connection failed, and peer-to-peer communication channel cannot be established. Please check the network and try again."
+    }
+  },
+  "tab": {
+    "chat": "Innovate",
+    "market": "Discover",
+    "me": "My Innovations",
+    "setting": "Innovation Settings"
+  },
+  "telemetry": {
+    "allow": "Allow",
+    "deny": "Deny",
+    "desc": "We would like to anonymously collect innovation usage information to help us improve Slyyyde and provide you with a better innovation experience. You can disable this at any time in Settings - About.",
+    "learnMore": "Learn More about Innovation Telemetry",
+    "title": "Help Slyyyde ignite more innovations"
+  },
+  "temp": "Temporary Innovation",
+  "terms": "Innovation Terms of Service",
+  "updateAgent": "Update Innovation Catalyst Information",
+  "upgradeVersion": {
+    "action": "Upgrade Innovation",
+    "hasNew": "New innovation update available",
+    "newVersion": "New innovation version available: {{version}}"
+  },
+  "userPanel": {
+    "anonymousNickName": "Anonymous Innovator",
+    "billing": "Innovation Billing Management",
+    "defaultNickname": "Community Innovator",
+    "discord": "Innovation Community Support",
+    "docs": "Innovation Documentation",
+    "email": "Innovation Email Support",
+    "feedback": "Innovation Feedback and Suggestions",
+    "help": "Innovation Help Center",
+    "moveGuide": "The innovation settings button has been moved here",
+    "plans": "Innovation Subscription Plans",
+    "preview": "Innovation Preview",
+    "profile": "Innovation Account Management",
+    "setting": "Slyyyde Innovation Settings",
+    "usages": "Innovation Usage Statistics"
+  }
+}
